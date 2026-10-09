@@ -186,4 +186,4 @@ Water  = E_IT × WUE  +  E_fac × EWIF
 MIT - see `LICENSE`.
 
 **AUTHOR**
-**Sadia Uzma Ashrafi**
+**Srijita Das**
